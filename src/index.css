@@ -1,13 +1,10 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/*  index.css es para todo el codigo de react !!
+    es decir estilos generales ( body, fontfamilies, etc  */ 
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/* EL APP.CSS TIENE MAS PESO QUE EL INDEX.CSS 
+ ( ESTO EN CUANTO A CUAL TIENE PRIORIDAD EN APLICARSE ) */
+
+ body {
+  background-color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
