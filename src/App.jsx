@@ -8,6 +8,8 @@ const App = () => {
             <Navbar/>
 
             <h1 id='title'> Heeello NAKAMAAA </h1>
+
+            
         </>
     );
 }
